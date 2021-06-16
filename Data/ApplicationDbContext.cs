@@ -14,6 +14,7 @@ namespace AMARILLO.Data
         {
         }
        
+       
         public DbSet<AMARILLO.Models.Producto> Producto { get; set; }
         public DbSet<TipoProducto> TipoProducto { get; set; }
         public DbSet<Descripcion> Descripcion { get; set; }

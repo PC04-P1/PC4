@@ -1,0 +1,82 @@
+@model dynamic
+
+@{
+    ViewData["Title"] = "Ingresar Producto";
+    Producto producto = @Model.producto;
+}
+
+
+<div class="row">
+    <div class="col-md-4">  
+        <h3 class="titulo">Ingresar Producto </h3></p>
+
+        <form asp-controller="Producto" asp-action="Formulario" method="POST">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@producto.Nombre" class="control-label"></label>
+                <input asp-for="@producto.Nombre" class="form-control" />
+                <span asp-validation-for="@producto.Nombre" class="text-danger"></span>
+            </div>    
+
+            <div class="form-group">
+                <label asp-for="@producto.TipoProducto" class="control-label"></label>
+                <select name="IDTipoProducto" class="custom-select">
+                    @foreach (TipoProducto tipo in Model.TipoProducto)
+                    {
+                        <option value="@tipo.ID">@tipo.Nombre</option>
+                    }
+                </select>
+            </div>
+          
+            @* <div class="form-group">
+                <label asp-for="@producto.Imagen" class="control-label"></label>
+                <input type="file" asp-for="@producto.Imagen" class="form-control" accept="image/*"/>
+            </div>                *@
+
+            <div class="form-group">
+                <label asp-for="@producto.ImagenURL" class="control-label"></label>
+                <input asp-for="@producto.ImagenURL" class="form-control" />
+            </div> 
+                   
+            <div class="form-group">
+                <label asp-for="@producto.Precio" class="control-label"></label>
+                <input asp-for="@producto.Precio" class="form-control" />
+            </div>               
+
+            <div class="form-group">
+                <label asp-for="@producto.Stock" class="control-label"></label>
+                <input asp-for="@producto.Stock" class="form-control" />
+            </div>                                   
+
+            <div class="form-group">
+                <label asp-for="@producto.Accesorios" class="control-label"></label>
+                <input asp-for="@producto.Accesorios" class="form-control" />
+            </div>
+             <div class="form-group">
+                <label asp-for="@producto.Elejir" class="control-label"></label>
+                <textarea asp-for="@producto.Elejir" class="form-control"></textarea> 
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="@producto.Tips" class="control-label"></label>
+                <textarea asp-for="@producto.Tips" class="form-control"></textarea>
+            </div>
+
+            <div class="form-group">
+                 <button type="submit"  class="btn btn-success">Agregar</button> 
+            </div>                
+
+        </form>
+            
+
+
+        <td></td>    
+        @* <td>@Html.DisplayTextFor(model => model.Respuesta)</td> *@
+        @producto.Respuesta
+
+    </div>
+</div>
+
+

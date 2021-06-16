@@ -1,0 +1,52 @@
+@model dynamic
+
+@{
+	ViewData["Title"] = "Producto";
+}
+
+<div class="row">
+ <div class="col-md-4">
+  <h3 class="titulo">Productos </h3>
+ </div>
+</div>
+
+<div class="dropdown p-3 mb-2 bg-dark input-group mb-3">
+	<form asp-controller="Producto" asp-action="Index">
+	<select class="custom-select btn btn-outline-light" type="button" name="BuscarProducto"
+	onchange="this.form.submit()">
+	<option><i class="fas fa-leaf"></i>Tipo de Producto</option>
+	@foreach (TipoProducto item in Model.TipoProducto)
+		{
+			<option class="dropdown-item" value="@item.ID">@item.Nombre</option>
+		}
+	</select>
+	</form>
+	<div class="input-group-append">
+	<a class="input-group-text btn btn-outline-light" href="~/Producto/Formulario">Agregar</a>
+	</div>
+</div>
+
+<div class="container">
+
+
+
+
+@foreach (Producto producto in Model.Producto)
+	{
+	 <a asp-controller="producto" asp-action="Detalle" asp-route-id="@producto.ID">
+	  <button type="submit" class="btn btn-light">
+	   <div style="width: 18rem;">
+		<img src="@Url.Content(producto.ImagenURL)" class="card-img-top center-cropped">
+		<div class="card-body">
+		 <h5 class="card-tittle" align="center">@producto.Nombre</h5>
+		 <a asp-controller="Producto" asp-action="Edit" asp-route-id="@producto.ID" align="center"
+		  class="btn btn-outline-dark"><i class="fas fa-edit"></i></a>
+
+		 <a asp-action="Delete" asp-route-id="@producto.ID" align="center"
+		  class="btn btn-outline-dark"><i class="fas fa-trash"></i></a>
+		</div>
+	   </div>
+	  </button>
+	 </a>
+	}
+</div>
