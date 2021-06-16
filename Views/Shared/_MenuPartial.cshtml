@@ -1,0 +1,51 @@
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+     
+@if(UserManager.GetUserName(User).Equals("ADMIN"))//contra Flores12*
+    {
+<li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Contacto" asp-action="Index"> Contactos</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Producto" asp-action="Index">  Celulares</a>
+    </li>  
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="TipoProducto" asp-action="Index">  Tipos</a>
+    </li>  
+
+}
+
+else if(UserManager.GetUserName(User).Equals("CLIENTE"))//contra Flores12*
+{
+
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="TipoProducto" asp-action="Producto"> Productos</a>
+    </li> 
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Descripcion" asp-action="Invitado">Politicas</a>
+    </li> 
+        <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Contacto" asp-action="Create">Contacto</a>
+    </li> 
+
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </li> 
+}
+}
+
+else{ 
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="TipoProducto" asp-action="Producto"> Productos</a>
+    </li> 
+
+        <li class="nav-item">
+        <a class="nav-link text-light" asp-area="" asp-controller="Contacto" asp-action="Create">Contacto</a>
+    </li> 
+
+    
+}

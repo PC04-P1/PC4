@@ -1,0 +1,206 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+* {
+  box-sizing: border-box;
+}
+
+/* animadera */
+@keyframes logo{
+  to {
+    transform: scale(1.2);
+  }
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Kat */
+.navbar-nav #car:hover{
+  transition: all 0.2s ease;
+  font-size: 2rem;
+
+}
+.navbar{
+  background: #0d0e0c;
+}
+.navbar .nav-link:hover {
+  border-bottom:3px solid #f4f5f3;
+}
+
+.logo {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 68px;
+  pointer-events: auto;
+  width: 180px;
+}
+
+.logo:hover{
+  animation-name: logo;
+  animation-duration: 1s;
+}
+
+.titulo{
+  border-bottom:3px solid #464d43;
+}
+
+/* planta */
+.content{
+  width: 100%;
+}
+
+.propiedad{
+  color: #273123;
+}
+.planta-content{
+  display:inline-block;
+  position:relative;
+  text-align: center;
+}
+.planta-content img{
+  margin: auto;
+  width: 70%;
+ background-position: center center;
+  background-repeat: no-repeat;
+  /* max-width: 400px; */
+}
+.planta-content a{
+  position: absolute;
+  bottom:0em;
+  right:3em;
+  background-color: #2b3029;
+  border-radius:1em;
+  color:white;
+  padding:0em 0.5em;
+  font-size: 2em;
+  }
+
+  .planta-content a:hover{
+    background-color:#1c2019;
+    cursor:pointer;
+    color:rgb(54, 39, 39);
+    }
+
+.info{
+  width: 100%;
+  text-align: center;
+}
+.texto-info{
+  text-align: justify;
+  padding: 2em;
+}
+.center-cropped {
+  width: 200px;
+  height: 200px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+
+.plaga{
+  float:left;
+  height: 350px;
+  pointer-events: auto;
+  width: 600px;
+  margin-right: 20px;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #272b25;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #272b25;
+  border-color: #545e4f;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0d0e0d;
+  border-color: #171a16;
+}
+.btn-primary:focus, .btn-plantary.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.9);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #0d0e0c;
+  border-color: #464e42;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  font-family: 'Quicksand', sans-serif;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+/* Responsive 576px*/
+@media only screen and (min-width:992px){
+  .content{
+    display: flex;
+  }
+  .planta-content img{
+    margin-top: 40px;
+    float: left;
+    width: 500px;
+    height: 500px;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  .planta-content a{
+    margin: auto;
+    bottom:3em;
+    right:2em;
+    font-size: 2.5em;
+  }
+}
+

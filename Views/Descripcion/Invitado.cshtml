@@ -1,0 +1,38 @@
+@model IEnumerable<AMARILLO.Models.Descripcion>
+
+
+@{
+    ViewData["Title"] = "Descripcion";
+}
+<div class="row">
+  <div class="col-md-4">
+    <h3 class="titulo">MANTENIMIENTO</h3>
+  </div>
+</div>
+
+
+<div class="texto-info">
+		
+	
+
+		
+			
+</div>
+
+ <div class="container">
+
+ @foreach (var item in Model)
+	{
+	 <a asp-controller="Descripcion" asp-route-id="@item.id" asp-action="DetalleInvitado">
+	  <button type="submit" class="btn btn-dark">
+	   <div style="width: 18rem;">
+		<img src="@Url.Content(item.adicional)" class="card-img-top center-cropped">
+		<div class="card-body">
+		 <h5 class="card-tittle" align="center">@Html.DisplayFor(modelItem => item.nombreproducto)</h5>
+		 
+		</div>
+	   </div>
+	  </button>
+	 </a>
+	}
+</div>

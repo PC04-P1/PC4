@@ -1,0 +1,46 @@
+@model AMARILLO.Models.Descripcion
+
+
+@{
+    ViewData["Title"] = "Detalle";
+}
+
+
+
+
+<div class="row" >
+
+<h1 class="card-text col-sm-11 offset-sm-1 " align="left"><FONT COLOR="39A805">@Html.DisplayTextFor(model => model.nombreproducto)</FONT></h1>
+
+  <div class="col-sm-6 offset-sm-3">
+    <div class="card">
+
+    	<h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5><h5 class="card-title col-sm-12">
+    		
+    	</h5>
+    		<img src="@Url.Content(Model.adicional)" class=" col-sm-7 offset-sm-3 btn btn-light shadow p-3 mb-5 bg-white rounded" alt="..." width="100" height="100">
+      	<div class="card-body">
+
+      	<h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5> <h5 class="card-title col-sm-12"></h5>  <h5 class="card-title col-sm-12">
+
+        	<h5 class="card-title"><FONT COLOR="39A805">Descripcion del Producto</FONT></h5>
+        	<p class="card-text offset-sm-1">@Html.DisplayTextFor(model => model.descripcion)</p>
+
+        	
+
+			
+      </div>
+
+
+      <div class="col-sm-6 ">
+      <a asp-area="" asp-controller="Descripcion" asp-action="Index">
+      <button type="button" class="btn btn-success">Regresar</button>
+      </a>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+

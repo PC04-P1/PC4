@@ -1,0 +1,29 @@
+@model AMARILLO.Models.Descripcion
+
+@{
+    ViewData["Title"] = "Descripcion";
+}
+
+
+<form asp-controller="Descripcion" asp-action="Create" > 
+
+    <div class="form-group">
+    <label >Nombre del Producto</label>
+    <input type="text" asp-for="nombreproducto" class="form-control" placeholder="Nombre del Producto" required>
+    </div>
+
+    <div class="form-group">
+    <label >Descripción del Producto</label>
+    <textarea type="text" asp-for="descripcion" class="form-control" placeholder="Descripción del Producto" required>
+    </textarea>
+    </div>
+
+
+    <div class="form-group">
+    <label >URL de Imagen</label>
+    <input type="text" asp-for="adicional" class="form-control" placeholder="URL de imagen del Producto" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Listo</button>
+
+</form>

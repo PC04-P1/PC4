@@ -1,0 +1,1589 @@
+C:\Users\AMARILLO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AMARILLO\bin\Debug\net5.0\appsettings.json
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\AMARILLO\bin\Debug\net5.0\app.db
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\Humanizer.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Npgsql.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\AMARILLO\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\AMARILLO\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\AMARILLO\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AMARILLO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\AMARILLO\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\FIBRACAT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FIBRACAT\bin\Debug\net5.0\appsettings.json
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\FIBRACAT\bin\Debug\net5.0\app.db
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Npgsql.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\FIBRACAT\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\FIBRACAT\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\FIBRACAT\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\app.db
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\FIBRACAT-master\bin\Debug\net5.0\appsettings.Development.json
+F:\FIBRACAT-master\bin\Debug\net5.0\appsettings.json
+F:\FIBRACAT-master\bin\Debug\net5.0\app.db
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.exe
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.deps.json
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ref\AMARILLO.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.Views.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\AMARILLO.Views.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\Humanizer.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Npgsql.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FIBRACAT-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+F:\FIBRACAT-master\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.Views.pdb
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.dll
+F:\FIBRACAT-master\obj\Debug\net5.0\ref\AMARILLO.dll
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.pdb
+F:\FIBRACAT-master\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\appsettings.json
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\app.db
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Npgsql.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\appsettings.Development.json
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\appsettings.json
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\app.db
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.exe
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.deps.json
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ref\AMARILLO.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\AMARILLO.Views.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Humanizer.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Npgsql.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.AssemblyReference.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.Views.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\ref\AMARILLO.dll
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.pdb
+D:\jhoselyn\a_usmp\ciclo 1-2021\Programación I\FIBRACAT\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\appsettings.json
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\app.db
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Npgsql.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-2\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ACER\Desktop\FIBRACAT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACER\Desktop\FIBRACAT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\appsettings.json
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\app.db
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.exe
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.deps.json
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.runtimeconfig.json
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.runtimeconfig.dev.json
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.Views.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Npgsql.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.csprojAssemblyReference.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.AssemblyInfoInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.AssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.RazorAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.Manifest.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\staticwebassets\AMARILLO.StaticWebAssets.xml
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\scopedcss\bundle\AMARILLO.styles.css
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.TagHelpers.input.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.TagHelpers.output.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.RazorCoreGenerate.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\DescripcionConfirmacion.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\DetalleInvitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Descripcion\Invitado.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Producto\Detalle.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Producto\Formulario.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\TipoProducto\Create.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\TipoProducto\Edit.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\TipoProducto\Index.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\TipoProducto\Producto.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cache
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.RazorTargetAssemblyInfo.cs
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.Views.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.csproj.CopyComplete
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\ref\AMARILLO.dll
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.pdb
+C:\Users\FLORES\Desktop\FIBRACAT-4\obj\Debug\net5.0\AMARILLO.genruntimeconfig.cache
